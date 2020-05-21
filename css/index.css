@@ -1,0 +1,15 @@
+li {
+    cursor: pointer;
+}
+
+#main {
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    font-size: large;
+}
+
+.selected {
+    background:orange;
+}
+
